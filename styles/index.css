@@ -73,6 +73,9 @@
   #search-bar {
       width: 60%;
   }
+   #view-more-city-cards{
+  text-align: center;
+  }
   .city-cards {
       flex-direction: column;
       margin: auto;
